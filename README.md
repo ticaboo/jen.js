@@ -1,5 +1,5 @@
-Jen
+jen.js
 ===
-[![Build Status](https://secure.travis-ci.org/ticaboo/Jen.png)](http://travis-ci.org/ticaboo/Jen)
+[![Build Status](https://secure.travis-ci.org/ticaboo/jen.js.png)](http://travis-ci.org/ticaboo/jen.js)
 
-nodejs command line code scaffolder.
+node.js command line code scaffolder.
