@@ -1,4 +1,3 @@
-var Handlebars = require('handlebars');
 require("../lib/utils.js");
 
     describe("string helper: toDash", function() { 
