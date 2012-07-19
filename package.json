@@ -1,0 +1,27 @@
+{
+  "name": "jen",
+  "version": "0.0.1",
+  "engines": ["node >= 0.4.0"],
+  "bin": {
+    "jen": "./bin/jen.js"
+  },
+  "author": {
+    "name": "Henry Kemp",
+    "email": "henry@ticaboo.co.uk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ticaboo/Jen.git"
+  },
+  "dependencies":{
+   "handlebars": "1.0.x",
+   "commander" : "1.0.x",
+   "makeerror": "1.0.x" 
+  },
+  "devDependencies":{
+    "jasmine-node":"1.0.x"
+  },
+  "scripts": {
+    "test": "jasmine-node test/*"
+  }
+}
